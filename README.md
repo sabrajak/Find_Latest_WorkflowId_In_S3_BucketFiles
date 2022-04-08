@@ -7,3 +7,5 @@ This can be resolved in 2 ways
 2.In order to reduce time effort find the old workflow id and management id for those aborted customer id.
 
 This is the code for the 2nd way, it will find out the wfid for the latest JSON file uploaded 
+
+Language: powershell and AWS CLI
