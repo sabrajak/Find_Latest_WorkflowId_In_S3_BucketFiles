@@ -9,3 +9,4 @@ This can be resolved in 2 ways
 This is the code for the 2nd way, it will find out the wfid for the latest JSON file uploaded 
 
 Language: powershell and AWS CLI
+Install powershell on MAC: brew install --cask powershell
